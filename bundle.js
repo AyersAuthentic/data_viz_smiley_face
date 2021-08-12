@@ -6,7 +6,7 @@
 
   const BackgroundCircle = ({ radius, strokeWidth }) => (
     React.createElement( 'circle', {
-      r: radius, fill: "yellow", stroke: "black", 'stroke-width': strokeWidth })
+      r: radius, fill: "lime", stroke: "black", 'stroke-width': strokeWidth })
   );
 
   const Eyes = ({eyeOffsetX, eyeOffsetY, eyeRadius}) => (

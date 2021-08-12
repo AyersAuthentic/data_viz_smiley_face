@@ -1,7 +1,7 @@
 export const BackgroundCircle = ({ radius, strokeWidth }) => (
   <circle
     r={radius}
-    fill="purple"
+    fill="lime"
     stroke="black"
     stroke-width={strokeWidth}
   />
